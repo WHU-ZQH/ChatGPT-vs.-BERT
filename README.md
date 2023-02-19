@@ -34,7 +34,6 @@ python3 get_data.py --num 25 --task cola --model_pred BERT_pred_path --save_path
 <div align="center">
     <img width="40%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/mrpc.png">
 </div>
-
     > Analysis on similarity task (STS-B):
 <div align="center">
     <img width="40%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/stsb.png">
