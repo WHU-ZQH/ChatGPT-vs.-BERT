@@ -52,7 +52,7 @@ python3 get_data.py --num 25 --task cola --model_pred BERT_pred_path --save_path
     <img width="70%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/case_nli.png">
 </div>
 
-
+Please refer to our full [report](https://arxiv.org) for more details.
 
 ### Citation
 
