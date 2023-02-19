@@ -32,7 +32,7 @@ python3 get_data.py --num 25 --task cola --model_pred BERT_pred_path --save_path
 
     > Per-class accuracy on paraphrase task (MRPC):
 <div align="center">
-    <img width="100%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/mrpc.png">
+    <img width="85%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/mrpc.png">
 </div>
 
 
