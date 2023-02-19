@@ -22,7 +22,7 @@ python3 get_data.py --num 25 --task cola --model_pred BERT_pred_path --save_path
 
 1. Overall, ChatGPT attains a comparable understanding ability compared with fine-tuned BERT-base, but still underperforms the other powerful BERT-style models, such as RoBERTa-large, by a clear margin.
 
-> Overall results on GLUE:
+    > Overall results on GLUE:
 <div align="center">
     <img width="80%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/main.png">
 </div>
