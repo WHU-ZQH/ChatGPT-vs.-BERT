@@ -9,8 +9,9 @@ This repository releases the evaluated sets and the outputs predicted by BERT-st
 For each task of the [GLUE](https://gluebenchmark.com/tasks) benchmark, we randomly sample 25 instances for each class from the dev set for evaluation, except for STS-B, where we randomly sample 50 instances from a uniform distribution. The data and its corresponding predictions can be obtained in "[./data](./data/)".
 
 The task statistics and prompts are shown as follows:
-
-
+<div align="center">
+    <img width="75%" alt="image" src="./sources/task.png">
+</div>
 
 Additionally, we also provide the script for sampling and preprocessing the data in "[get_data.py](./get_data.py)". Taking the CoLA task as an example, you can resample k-instances by the following command:
 ```
