@@ -1,5 +1,5 @@
 # Data Format
-Each instance consists of 8 items:
+Each instance consists of 9 items:
 - **id**: the id of this instance in the original dev set.
 - **sentence(s)**: the input sentence(s) of this instance. For the sentence pair tasks, taking MNLI as an example, we refer to the premise as "sentence1" and the hypothesis as "sentence2".
 - **sentence4ChatGPT**: we fill the prompt template with the input sentence(s) and use it to ask ChatGPT.
