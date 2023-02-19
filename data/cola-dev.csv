@@ -1,0 +1,60 @@
+id,sentence,sentence4ChatGPT,"label (1 for yes, 0 for no)",pred_bert-base,pred_bert-large,pred_roberta-base,pred_roberta-large,pred_ChatGPT
+214,Out of the box jumped a little white rabbit.,"For the sentence: ""Out of the box jumped a little white rabbit."",is the sentence grammarly correct?",1,1,1,1,1,1
+337,Some of them made as many errors as 20.,"For the sentence: ""Some of them made as many errors as 20."",is the sentence grammarly correct?",1,1,1,1,1,0
+284,It did not rain.,"For the sentence: ""It did not rain."",is the sentence grammarly correct?",1,0,1,1,1,1
+469,John promise Mary to shave himself.,"For the sentence: ""John promise Mary to shave himself."",is the sentence grammarly correct?",1,0,1,0,0,0
+320,That kind of person is hard to find anyone to look after.,"For the sentence: ""That kind of person is hard to find anyone to look after."",is the sentence grammarly correct?",1,1,1,1,1,0
+766,She can run an accelerator.,"For the sentence: ""She can run an accelerator."",is the sentence grammarly correct?",1,1,1,1,1,1
+1019,The problem we are discussing is George.,"For the sentence: ""The problem we are discussing is George."",is the sentence grammarly correct?",1,1,1,1,1,0
+831,The teacher became angry with the students.,"For the sentence: ""The teacher became angry with the students."",is the sentence grammarly correct?",1,1,1,1,1,1
+981,They make good cooks.,"For the sentence: ""They make good cooks."",is the sentence grammarly correct?",1,1,1,1,1,1
+629,It was believed by the students that they would have an exam.,"For the sentence: ""It was believed by the students that they would have an exam."",is the sentence grammarly correct?",1,1,1,1,1,1
+266,It is a golden hair.,"For the sentence: ""It is a golden hair."",is the sentence grammarly correct?",1,0,1,0,1,0
+485,Did Athena help us?,"For the sentence: ""Did Athena help us?"",is the sentence grammarly correct?",1,1,1,1,1,1
+619,The book was seen by Mary.,"For the sentence: ""The book was seen by Mary."",is the sentence grammarly correct?",1,1,1,1,1,1
+982,there is nothing to do.,"For the sentence: ""there is nothing to do."",is the sentence grammarly correct?",1,1,1,1,1,1
+872,There was some particular dog who saved every family.,"For the sentence: ""There was some particular dog who saved every family."",is the sentence grammarly correct?",1,1,1,1,1,0
+838,We celebrated in the streets in the rain on Tuesday in the morning.,"For the sentence: ""We celebrated in the streets in the rain on Tuesday in the morning."",is the sentence grammarly correct?",1,1,1,1,1,1
+56,"Joe's neuroses bother his patrons, and Sally does too.","For the sentence: ""Joe's neuroses bother his patrons, and Sally does too."",is the sentence grammarly correct?",1,1,1,1,1,1
+267,The boy in the doorway waved to his father.,"For the sentence: ""The boy in the doorway waved to his father."",is the sentence grammarly correct?",1,1,1,1,1,1
+523,I kicked myself,"For the sentence: ""I kicked myself"",is the sentence grammarly correct?",1,0,1,1,0,1
+296,Ricky can be relied on.,"For the sentence: ""Ricky can be relied on."",is the sentence grammarly correct?",1,1,1,1,1,1
+583,"Sandy was trying to work out which students would be able to solve a certain problem, but she wouldn't tell us which one.","For the sentence: ""Sandy was trying to work out which students would be able to solve a certain problem, but she wouldn't tell us which one."",is the sentence grammarly correct?",1,1,1,1,1,1
+564,"They were going to meet sometime on Sunday, but the faculty didn't know when.","For the sentence: ""They were going to meet sometime on Sunday, but the faculty didn't know when."",is the sentence grammarly correct?",1,1,1,1,1,1
+238,A smith hammered the metal.,"For the sentence: ""A smith hammered the metal."",is the sentence grammarly correct?",1,1,1,1,1,1
+931,There is a unicorn in the garden.,"For the sentence: ""There is a unicorn in the garden."",is the sentence grammarly correct?",1,1,1,1,1,1
+560,Sandy had read how many papers?!,"For the sentence: ""Sandy had read how many papers?!"",is the sentence grammarly correct?",1,1,1,1,1,1
+672,"As a teacher, you have to deal simultaneously with the administration's pressure on you to succeed, and the children's to be a nice guy.","For the sentence: ""As a teacher, you have to deal simultaneously with the administration's pressure on you to succeed, and the children's to be a nice guy."",is the sentence grammarly correct?",0,0,0,1,0,1
+524,The bookcase ran,"For the sentence: ""The bookcase ran"",is the sentence grammarly correct?",0,1,0,1,0,0
+939,We talked to them about there.,"For the sentence: ""We talked to them about there."",is the sentence grammarly correct?",0,0,1,0,0,0
+852,This dogs barked.,"For the sentence: ""This dogs barked."",is the sentence grammarly correct?",0,0,0,0,0,0
+135,I lent the book partway to Tony.,"For the sentence: ""I lent the book partway to Tony."",is the sentence grammarly correct?",0,0,0,0,0,0
+13,"The more does Bill smoke, the more Susan hates him.","For the sentence: ""The more does Bill smoke, the more Susan hates him."",is the sentence grammarly correct?",0,0,1,0,1,1
+827,The defendant walk.,"For the sentence: ""The defendant walk."",is the sentence grammarly correct?",0,0,0,0,0,0
+645,"Bill ate the peaches, but Harry the grapes.","For the sentence: ""Bill ate the peaches, but Harry the grapes."",is the sentence grammarly correct?",0,1,1,0,1,0
+818,Terry delighted.,"For the sentence: ""Terry delighted."",is the sentence grammarly correct?",0,0,1,0,0,0
+173,The chair pushed.,"For the sentence: ""The chair pushed."",is the sentence grammarly correct?",0,0,1,1,0,0
+362,Heidi thinks that Andy to eat salmon flavored candy bars.,"For the sentence: ""Heidi thinks that Andy to eat salmon flavored candy bars."",is the sentence grammarly correct?",0,0,0,0,0,0
+926,The cat were bitten by the dog.,"For the sentence: ""The cat were bitten by the dog."",is the sentence grammarly correct?",0,1,0,1,0,0
+471,I saw Bill while you did so Mary.,"For the sentence: ""I saw Bill while you did so Mary."",is the sentence grammarly correct?",0,0,1,0,0,0
+246,John put under the bathtub.,"For the sentence: ""John put under the bathtub."",is the sentence grammarly correct?",0,0,0,0,0,0
+990,It was hated for John to leave.,"For the sentence: ""It was hated for John to leave."",is the sentence grammarly correct?",0,0,0,0,0,0
+76,I want that Bill left to remain a secret.,"For the sentence: ""I want that Bill left to remain a secret."",is the sentence grammarly correct?",0,1,1,1,0,0
+1010,John believes it that Bill is here.,"For the sentence: ""John believes it that Bill is here."",is the sentence grammarly correct?",0,0,0,0,1,0
+660,Maytag will give a brand-new dryer to the winner of the Mrs.,"For the sentence: ""Maytag will give a brand-new dryer to the winner of the Mrs."",is the sentence grammarly correct?",0,1,1,1,1,0
+620,John was seen the book.,"For the sentence: ""John was seen the book."",is the sentence grammarly correct?",0,0,0,0,0,0
+57,"I know which book José didn't read for class, and which book Lilly did it for him.","For the sentence: ""I know which book José didn't read for class, and which book Lilly did it for him."",is the sentence grammarly correct?",0,0,0,0,0,1
+657,"Max seemed to be trying to force Ted to leave the room, and Walt to stay a little longer.","For the sentence: ""Max seemed to be trying to force Ted to leave the room, and Walt to stay a little longer."",is the sentence grammarly correct?",0,1,1,1,1,1
+460,John heard that they criticized themselves.,"For the sentence: ""John heard that they criticized themselves."",is the sentence grammarly correct?",0,0,1,0,0,1
+915,Chris was handed Sandy a note.,"For the sentence: ""Chris was handed Sandy a note."",is the sentence grammarly correct?",0,1,1,0,1,0
+504,I thought he liked myself,"For the sentence: ""I thought he liked myself"",is the sentence grammarly correct?",0,0,0,0,0,0
+105,Here's a knife with which for you to cut up the onions.,"For the sentence: ""Here's a knife with which for you to cut up the onions."",is the sentence grammarly correct?",0,0,0,1,1,0
+,,,,,,,,
+,,,P_acc,0.84,1,0.92,0.92,0.76
+,,,N_acc,0.72,0.56,0.68,0.72,0.8
+,,,Acc,0.78,0.78,0.8,0.82,0.78
+,,,tp,21,25,23,23,19
+,,,tp,18,14,17,18,20
+,,,fp,4,0,2,2,6
+,,,fn,7,11,8,7,5
+,,,mcc,0.564076075,0.623609564,0.618064233,0.653197265,0.560448538
