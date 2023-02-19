@@ -20,7 +20,7 @@ python3 get_data.py --num 25 --task cola --model_pred BERT_pred_path --save_path
 
 ## Results and Findings
 
-- Overall, ChatGPT attains a comparable understanding ability compared with fine-tuned BERT-base, but still underperforms the other powerful BERT-style models, such as RoBERTa-large, by a clear margin.
+1. Overall, ChatGPT attains a comparable understanding ability compared with fine-tuned BERT-base, but still underperforms the other powerful BERT-style models, such as RoBERTa-large, by a clear margin.
 
 > Overall results on GLUE:
 <div align="center">
@@ -28,7 +28,7 @@ python3 get_data.py --num 25 --task cola --model_pred BERT_pred_path --save_path
 </div>
 
 
-- ChatGPT falls short in handling paraphrase and similarity tasks. Specifically, ChatGPT performs poorly in negative paraphrase and neutral similarity samples, respectively.
+2. ChatGPT falls short in handling paraphrase and similarity tasks. Specifically, ChatGPT performs poorly in negative paraphrase and neutral similarity samples, respectively.
 
 > Per-class accuracy on paraphrase task (MRPC):
 <div align="center">
@@ -41,7 +41,7 @@ python3 get_data.py --num 25 --task cola --model_pred BERT_pred_path --save_path
 </div>
 
 
-- ChatGPT outperforms all BERT-style models on inference tasks by a large margin, indicating its impressive reasoning ability.
+3. ChatGPT outperforms all BERT-style models on inference tasks by a large margin, indicating its impressive reasoning ability.
 
 > Per-class accuracy on inference tasks:
 <div align="center">
@@ -49,7 +49,7 @@ python3 get_data.py --num 25 --task cola --model_pred BERT_pred_path --save_path
 </div>
 
 
-- Despite its good performance on inference tasks, ChatGPT may generate some contradictory or unreasonable responses, which would be its potential limitations.
+4. Despite its good performance on inference tasks, ChatGPT may generate some contradictory or unreasonable responses, which would be its potential limitations.
 
 > Case of inference tasks:
 
