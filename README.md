@@ -10,7 +10,7 @@ For each task of the [GLUE](https://gluebenchmark.com/tasks) benchmark, we rando
 
 The task statistics and prompts are shown as follows:
 <div align="center">
-    <img width="75%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/task.png">
+    <img width="95%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/task.png">
 </div>
 
 Additionally, we also provide the script for sampling and preprocessing the data in "[get_data.py](./get_data.py)". Taking the CoLA task as an example, you can resample k-instances by the following command:
