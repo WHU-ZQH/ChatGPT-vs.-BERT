@@ -30,19 +30,20 @@ python3 get_data.py --num 25 --task cola --model_pred BERT_pred_path --save_path
 
 2. ChatGPT falls short in handling paraphrase and similarity tasks. Specifically, ChatGPT performs poorly in negative paraphrase and neutral similarity samples, respectively.
 
-> Per-class accuracy on paraphrase task (MRPC):
+    > Per-class accuracy on paraphrase task (MRPC):
 <div align="center">
     <img width="50%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/mrpc.png">
 </div>
 
-> Analysis on similarity task (STS-B):
+    > Analysis on similarity task (STS-B):
 <div align="center">
     <img width="50%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/stsb.png">
 </div>
 
 
 3. ChatGPT outperforms all BERT-style models on inference tasks by a large margin, indicating its impressive reasoning ability.
-> Per-class accuracy on inference tasks:
+
+    > Per-class accuracy on inference tasks:
 <div align="center">
     <img width="50%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/nli.png">
 </div>
@@ -50,7 +51,7 @@ python3 get_data.py --num 25 --task cola --model_pred BERT_pred_path --save_path
 
 4. Despite its good performance on inference tasks, ChatGPT may generate some contradictory or unreasonable responses, which would be its potential limitations.
 
-> Case of inference tasks:
+    > Case of inference tasks:
 
 <div align="center">
     <img width="50%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/case_nli.png">
