@@ -42,7 +42,6 @@ python3 get_data.py --num 25 --task cola --model_pred BERT_pred_path --save_path
 
 
 3. ChatGPT outperforms all BERT-style models on inference tasks by a large margin, indicating its impressive reasoning ability.
-
 > Per-class accuracy on inference tasks:
 <div align="center">
     <img width="50%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/nli.png">
