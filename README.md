@@ -30,7 +30,7 @@ python3 get_data.py --num 25 --task cola --model_pred BERT_pred_path --save_path
 
 2. ChatGPT falls short in handling paraphrase and similarity tasks. Specifically, ChatGPT performs poorly in negative paraphrase and neutral similarity samples, respectively.
 
-    > Per-class accuracy on paraphrase task (MRPC):
+    > Per-class accuracy on paraphrase task (Left) and analysis on similarity task (Right):
 <div align="center">
     <img width="85%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/mrpc.png">
 </div>
