@@ -55,8 +55,10 @@ python3 get_data.py --num 25 --task cola --model_pred BERT_pred_path --save_path
 Please refer to our full [report](https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/report.pdf) for more details.
 
 ## TODO 
-- [ ] Zero-shot Chain-of-Thought results <i> (before 24 Feb. 2023) </i>
-- [ ] Few-shot Chain-of-Thought results <i> (before 24 Feb. 2023) </i>
+More results of ChatGPT equipped with the following strategies:  
+- [ ] Zero-shot Chain-of-Thought <i> (before 24 Feb. 2023) </i>
+- [ ] Few-shot Chain-of-Thought <i> (before 24 Feb. 2023) </i>
+- [ ] Standard few-shot In-Context Learning <i> (before 24 Feb. 2023) </i>
 
 ### Citation
 
