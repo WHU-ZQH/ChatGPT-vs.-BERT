@@ -2,7 +2,7 @@
 A Comparative  Study on ChatGPT and Fine-tuned BERT.
 
 
-This repository releases the evaluated sets and the outputs predicted by BERT-style models and [ChatGPT](https://chat.openai.com/chat), for the replication of the study.
+This repository releases the evaluated sets and the outputs predicted by BERT-style models (BERT-Base/Large and RoBERTa-Base/Large) and [ChatGPT](https://chat.openai.com/chat), for the replication of the study.
 
 ## Data and Predictions
 
