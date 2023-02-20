@@ -1,5 +1,5 @@
 # ChatGPT-vs.-BERT
-A Comparative  Study on ChatGPT and Fine-tuned BERT.
+A Comparative  Study on ChatGPT and Fine-tuned BERT. [Full report](https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/report.pdf)
 
 
 This repository releases the evaluated sets and the outputs predicted by BERT-style models and [ChatGPT](https://chat.openai.com/chat), for the replication of the study.
@@ -52,7 +52,7 @@ python3 get_data.py --num 25 --task cola --model_pred BERT_pred_path --save_path
     <img width="70%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/case_nli.png">
 </div>
 
-Please refer to our full [report](https://arxiv.org) for more details.
+Please refer to our full [report](https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/report.pdf) for more details.
 
 ### Citation
 
