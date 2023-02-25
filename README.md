@@ -54,11 +54,26 @@ python3 get_data.py --num 25 --task cola --model_pred BERT_pred_path --save_path
 
 Please refer to our full [report](https://arxiv.org/pdf/2302.10198.pdf) for more details.
 
+## Few-shot results (update)
+Few-shot results of ChatGPT equipped with the standard prompting and the chain-of-thought (CoT) prompting are shown as follows:
+
+<div align="center">
+    <img width="80%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/few-shot-result.png">
+</div>
+
+
+Based on these results, we can further find that:
+- Few-shot prompting generally improves the performance of ChatGPT, and more in-context samples bring more performance gains. 
+- In the 1-shot scenario, the performance of ChatGPT is relatively sensitive to the given in-context example, as it can even lead to worse performance on some tasks.
+- Compared to standard prompting, CoT can facilitate the ChatGPT's understanding ability more effectively, especially on the inference task.
+- With the help of few-shot CoT, ChatGPT achieves impressive performance improvement (up to 7.5% average score), but still underperforms the powerful RoBERTa-large by a narrow margin.
+
+
 ## TODO 
 More results of ChatGPT equipped with the following strategies:  
-- [ ] Zero-shot Chain-of-Thought <i> (before 24 Feb. 2023) </i>
-- [ ] Few-shot Chain-of-Thought <i> (before 24 Feb. 2023) </i>
-- [ ] Standard few-shot In-Context Learning <i> (before 24 Feb. 2023) </i>
+- [x] Zero-shot Chain-of-Thought <i> (before 24 Feb. 2023) </i>
+- [x] Few-shot Chain-of-Thought <i> (before 24 Feb. 2023) </i>
+- [x] Standard few-shot In-Context Learning <i> (before 24 Feb. 2023) </i>
 
 ### Citation
 
