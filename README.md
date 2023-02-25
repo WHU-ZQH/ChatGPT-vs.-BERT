@@ -54,8 +54,8 @@ python3 get_data.py --num 25 --task cola --model_pred BERT_pred_path --save_path
 
 Please refer to our full [report](https://arxiv.org/pdf/2302.10198.pdf) for more details.
 
-## More results of ChatGPT with advanced prompting techniques  (update on 24 Feb. 2023)
-Few-shot results of ChatGPT equipped with the standard prompting and the chain-of-thought (CoT) prompting are shown as follows:
+## More results with advanced prompting techniques  (update on 24 Feb. 2023)
+   >Few-shot results of ChatGPT equipped with the standard prompting and the chain-of-thought (CoT) prompting are shown as follows:
 
 <div align="center">
     <img width="80%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/few-shot-result.png">
