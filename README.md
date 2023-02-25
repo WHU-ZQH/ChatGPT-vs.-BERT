@@ -58,7 +58,7 @@ Please refer to our full [report](https://arxiv.org/pdf/2302.10198.pdf) for more
 Few-shot results of ChatGPT equipped with the standard prompting and the chain-of-thought (CoT) prompting are shown as follows:
 
 <div align="center">
-    <img width="90%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/few-shot-result.png">
+    <img width="80%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/few-shot-result.png">
 </div>
 
 
