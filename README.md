@@ -75,6 +75,9 @@ More results of ChatGPT equipped with the following strategies:
 - [x] Few-shot Chain-of-Thought <i> (before 24 Feb. 2023) </i>
 - [x] Standard few-shot In-Context Learning <i> (before 24 Feb. 2023) </i>
 
+Add the few-shot results and analyses in our report:
+- [ ] update our report and release the v2 version <i> (before 28 Feb. 2023) </i>
+
 ### Citation
 
 ```ruby
