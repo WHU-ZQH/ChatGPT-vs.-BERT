@@ -1,5 +1,5 @@
 # ChatGPT-vs.-BERT
-A Comparative  Study on ChatGPT and Fine-tuned BERT. ([Full report](https://arxiv.org/pdf/2302.10198.pdf))
+A Comparative  Study on ChatGPT and Fine-tuned BERT. ([v1](https://arxiv.org/pdf/2302.10198.pdf)) ([v2](https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/report_v2.pdf))
 
 
 This repository releases the evaluated sets and the outputs predicted by BERT-style models (BERT-Base/Large and RoBERTa-Base/Large) and [ChatGPT](https://chat.openai.com/chat), for the replication of the study.
