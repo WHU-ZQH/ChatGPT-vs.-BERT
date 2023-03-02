@@ -52,10 +52,16 @@ python3 get_data.py --num 25 --task cola --model_pred BERT_pred_path --save_path
     <img width="70%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/case_nli.png">
 </div>
 
-Please refer to our full [report](https://arxiv.org/pdf/2302.10198.pdf) for more details.
 
-## More results with advanced prompting techniques  (update on 24 Feb. 2023)
-   >Few-shot results of ChatGPT equipped with the standard prompting and the chain-of-thought (CoT) prompting are shown as follows:
+## More results with advanced prompting techniques  (update on 2 Mar. 2023)
+
+In addition to analyzing the ChatGPT itself, we also explore the complementarity of ChatGPT and some advanced prompting strategies, i.e., the standard few-shot prompting, manual few-shot chain-of-thought (CoT) prompting and zero-shot CoT prompting. To have a close look, we provide some input/output examples in the following figure.
+
+<div align="center">
+    <img width="80%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/prompting.png">
+</div>
+
+The overall results of ChatGPT equipped with advanced prompting strategies are shown as follows:
 
 <div align="center">
     <img width="80%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/few-shot-result.png">
@@ -63,11 +69,18 @@ Please refer to our full [report](https://arxiv.org/pdf/2302.10198.pdf) for more
 
 
 Based on these results, we can further find that:
-- Few-shot prompting generally improves the performance of ChatGPT, and more in-context samples bring more performance gains. 
-- In the 1-shot scenario, the performance of ChatGPT is relatively sensitive to the given in-context example, as it can even lead to worse performance on some tasks.
-- Compared to standard prompting, CoT can facilitate the ChatGPT's understanding ability more effectively, especially on the inference task.
-- With the help of few-shot CoT, ChatGPT achieves impressive performance improvement (up to 7.5% average score), but still underperforms the powerful RoBERTa-large by a narrow margin.
+- ChatGPT benefits from all these prompting strategies, among which the manual-CoT brings the most performance improvements. 
+- The performance of in-context learning is unstable and relatively sensitive to the provided examples, especially in the 1-shot scenario. 
 
+	> More detailed analysis on the 1-shot prompting:
+<div align="center">
+    <img width="70%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/1-shot-result.png">
+</div>
+
+
+- With the help of few-shot CoT, ChatGPT achieves impressive performance improvement (up to 7.5% average score), but still fails to beat the current SOTA models, especially on some NLU tasks. 
+
+Please refer to our full [report](https://arxiv.org/pdf/2302.10198.pdf) for more details.
 
 ## TODO 
 More results of ChatGPT equipped with the following strategies:  
@@ -76,7 +89,7 @@ More results of ChatGPT equipped with the following strategies:
 - [x] Standard few-shot In-Context Learning <i> (before 24 Feb. 2023) </i>
 
 Add the few-shot results and analyses in our report:
-- [ ] update our report and release the v2 version <i> (before 28 Feb. 2023) </i>
+- [x] update our report and release the v2 version <i> (before 28 Feb. 2023) </i>
 
 ### Citation
 
