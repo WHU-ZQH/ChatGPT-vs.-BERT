@@ -77,7 +77,7 @@ Based on these results, we can further find that:
 
 	> More detailed analysis on the 1-shot prompting:
 <div align="center">
-    <img width="35%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/1-shot-result.png">
+    <img width="40%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/1-shot-result.png">
 </div>
 
 
