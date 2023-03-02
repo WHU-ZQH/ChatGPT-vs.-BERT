@@ -55,13 +55,16 @@ python3 get_data.py --num 25 --task cola --model_pred BERT_pred_path --save_path
 
 ## More results with advanced prompting techniques  (update on 2 Mar. 2023)
 
-In addition to analyzing the ChatGPT itself, we also explore the complementarity of ChatGPT and some advanced prompting strategies, i.e., the standard few-shot prompting, manual few-shot chain-of-thought (CoT) prompting and zero-shot CoT prompting. To have a close look, we provide some input/output examples in the following figure.
+In addition to analyzing the ChatGPT itself, we also explore the complementarity of ChatGPT and some advanced prompting strategies, i.e., the standard few-shot prompting, manual few-shot chain-of-thought (CoT) prompting and zero-shot CoT prompting. 
+
+ >Some input/output examples:
 
 <div align="center">
     <img width="80%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/prompting.png">
 </div>
 
-The overall results of ChatGPT equipped with advanced prompting strategies are shown as follows:
+
+ >The overall results of ChatGPT equipped with advanced prompting strategies:
 
 <div align="center">
     <img width="80%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/few-shot-result.png">
@@ -74,7 +77,7 @@ Based on these results, we can further find that:
 
 	> More detailed analysis on the 1-shot prompting:
 <div align="center">
-    <img width="70%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/1-shot-result.png">
+    <img width="50%" alt="image" src="https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/1-shot-result.png">
 </div>
 
 
