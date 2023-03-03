@@ -1,5 +1,5 @@
 # ChatGPT-vs.-BERT
-A Comparative  Study on ChatGPT and Fine-tuned BERT. ([Full report v1](https://arxiv.org/pdf/2302.10198.pdf)) ([v2](https://github.com/WHU-ZQH/ChatGPT-vs.-BERT/blob/main/sources/report_v2.pdf))
+A Comparative  Study on ChatGPT and Fine-tuned BERT. ([Full report, v2](https://arxiv.org/pdf/2302.10198v2.pdf)) ([v1](https://arxiv.org/pdf/2302.10198v1.pdf))
 
 
 This repository releases the evaluated sets and the outputs predicted by BERT-style models (BERT-Base/Large and RoBERTa-Base/Large) and [ChatGPT](https://chat.openai.com/chat), for the replication of the study.
@@ -83,7 +83,7 @@ Based on these results, we can further find that:
 
 - With the help of few-shot CoT, ChatGPT achieves impressive performance improvement (up to 7.5% average score), but still fails to beat the current SOTA models, especially on some NLU tasks. 
 
-Please refer to our full [report](https://arxiv.org/pdf/2302.10198.pdf) for more details.
+Please refer to our full [report](https://arxiv.org/pdf/2302.10198v2.pdf) for more details.
 
 ## TODO 
 More results of ChatGPT equipped with the following strategies:  
