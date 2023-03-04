@@ -1,5 +1,5 @@
-# ChatGPT-vs.-BERT
-A Comparative  Study on ChatGPT and Fine-tuned BERT. ([Full report, v2](https://arxiv.org/pdf/2302.10198v2.pdf)) ([v1](https://arxiv.org/pdf/2302.10198v1.pdf))
+# ChatGPT vs. BERT
+<b>Can ChatGPT Understand Too? A Comparative  Study on ChatGPT and Fine-tuned BERT</b>. ([Full report, v2](https://arxiv.org/pdf/2302.10198v2.pdf)) ([v1](https://arxiv.org/pdf/2302.10198v1.pdf))
 
 
 This repository releases the evaluated sets and the outputs predicted by BERT-style models (BERT-Base/Large and RoBERTa-Base/Large) and [ChatGPT](https://chat.openai.com/chat), for the replication of the study.
@@ -94,7 +94,8 @@ More results of ChatGPT equipped with the following strategies:
 Add the few-shot results and analyses in our report:
 - [x] update our report and release the v2 version <i> (before 28 Feb. 2023) </i>
 
-### Citation
+## Citation
+If you find this work helpful, please consider citing as follows:  
 
 ```ruby
 @article{zhong2023chat,
