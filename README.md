@@ -102,6 +102,7 @@ If you find this work helpful, please consider citing as follows:
   title={Can ChatGPT Understand Too? A Comparative  Study on ChatGPT and Fine-tuned BERT},
   author={Zhong, Qihuang and Ding, Liang and Liu, Juhua and Du, Bo and Tao, Dacheng},
   journal={arXiv preprint},
+  url={https://arxiv.org/abs/2302.10198},
   year={2023}
 }
 ```
