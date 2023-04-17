@@ -15,7 +15,7 @@ unsampled_dataset = load_dataset("glue", TASK, split="validation")
 dateset = unsampled_dataset.select(range(NUMS))
 
 # api key
-openai.api_key = "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"
+openai.api_key = "sk-..."
 
 
 def mapping(answer, task=TASK):
